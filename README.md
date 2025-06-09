@@ -18,24 +18,36 @@ Contact: A section with a contact form or details, making it easy for potential 
 
 Features
   Responsive Design: Fully optimized for various devices including desktops, tablets, and smartphones.
+  
   Modern UI/UX: Emphasis on a clean and contemporary layout with intuitive navigation.
+  
   Interactive Elements: Hover effects, and other interactive components to enhance the user experience.
+  
   Project Showcase: A dedicated section for displaying project details with visuals and links.
+  
   Contact Integration: Ready-to-use contact form enabling easy communication from visitors.
 
 Technologies Used
+
   HTML5 – For semantic and well-structured webpage content.
+  
   CSS3 – For styling and layout.
+  
   Setup and Installation
+  
   To run the project locally, follow these steps:
 
-
 Run the website:
+
   Open the index.html file directly in your browser or use a local development server like Live Server in VS Code.
 
 Usage
+
 After setup, you can start customizing the portfolio:
 
+
 Edit content in the HTML files to include your own information.
+
 Update styles in the CSS to reflect your personal branding.
+
 Add new projects or sections as needed.
