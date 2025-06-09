@@ -33,11 +33,7 @@ Contact: A section with a contact form or details, making it easy for potential 
   
   CSS3 – For styling and layout.
   
-  Setup and Installation
-  
-  To run the project locally, follow these steps:
-
-# Run the website:
+ # Run the website:
 
   Open the index.html file directly in your browser or use a local development server like Live Server in VS Code.
 
