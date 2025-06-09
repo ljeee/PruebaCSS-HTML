@@ -1,6 +1,7 @@
 Portfolio Final Module 
-By JEFERSON ESCUDERO RUA
-CLAN LINUS | LJEFERR@gmail.com | ID: 1000306313
+
+  By JEFERSON ESCUDERO RUA
+  CLAN LINUS | LJEFERR@gmail.com | ID: 1000306313
 
 This repository hosts the final module project—a personal portfolio website designed to showcase professional skills, projects, and accomplishments. The portfolio is built with modern web development practices to create a responsive, engaging, and user-friendly experience.
 
